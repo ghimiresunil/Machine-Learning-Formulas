@@ -2,8 +2,4 @@
 
 1. Naive Bayes
 
-Some display math:
-```math
-e^{i\pi} + 1 = 0
-```
-and some inline math, $`a^2 + b^2 = c^2`$.
+<img src="https://render.githubusercontent.com/render/math?math={\color{white}\P(A|C)=\frac{\P(C|A)\P(A)}{\P(C)}}#gh-dark-mode-only">
