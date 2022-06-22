@@ -14,3 +14,6 @@ $$ h_{map} = arg max P(c|a) \times P(a) $$
 
 5. Maximum Likelihood
 $$ h_{ML}  = arg max P(c|a) $$
+
+6. Total probability
+$$ Total P(B) = P(B|A) \times P(A) $$
