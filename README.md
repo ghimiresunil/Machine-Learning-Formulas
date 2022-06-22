@@ -11,3 +11,6 @@ $$ arg max P(Spo|Tot) \times \prod P(Soc|Spo) $$
 
 4. Bayes Map (Maximum a posteriori)
 $$ h_{map} = arg max P(c|a) \times P(a) $$
+
+5. Maximum Likelihood
+$$ h{ML}  = arg max P(c|a) $$
