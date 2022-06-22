@@ -8,3 +8,6 @@ $$ arg max\sum p(x|T) \times P(T|D)$$
 
 3. Naive Bayes Classifier 
 $$ arg max P(Spo|Tot) \times \prod P(Soc|Spo) $$
+
+4. Bayes Map (Maximum a posteriori)
+$$ h_{map} = arg max P(c|a) \times P(a) $$
