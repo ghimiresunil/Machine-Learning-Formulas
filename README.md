@@ -13,4 +13,4 @@ $$ arg max P(Spo|Tot) \times \prod P(Soc|Spo) $$
 $$ h_{map} = arg max P(c|a) \times P(a) $$
 
 5. Maximum Likelihood
-$$ h{ML}  = arg max P(c|a) $$
+$$ h_{ML}  = arg max P(c|a) $$
