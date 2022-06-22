@@ -17,3 +17,6 @@ $$ h_{ML}  = arg max P(c|a) $$
 
 6. Total probability
 $$ Total P(B) = P(B|A) \times P(A) $$
+
+7. Mixture Models
+$$ P(B) = P(B|A) \times P(A)$$
