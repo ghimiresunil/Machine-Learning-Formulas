@@ -25,3 +25,9 @@ $$ P(B) = P(B|A) \times P(A)$$
 $$ P(x|\bar{x}) = \frac{1}{\sqrt{2\pi\\sigma^2}} \times exp [-\frac{1}{2}(\frac{x - \bar{x}}{\sigma})^2]$$
 $$ Z_{cs} = \frac{N_{A}C_{B} + N_{B}C_{A}}{N_{A} + C_{B}}$$
 $$ P(Z_{cs}) \rightarrow  0.50$$
+
+9. EM Algorithm
+$$ E \ step \ P(\bar{x}|x) = \frac{P(\bar{x}) \times P(x|\bar{x})}{\sum P(x) \times P(\bar{x})} $$
+$$ M \ step \ P(x^{\prime}) = \frac{P(\bar{x}|x)}{n}$$
+$$ E \ step  \ P(\bar{x}|x) = Assign \ Value $$
+$$ M \ step  \ P(x{\prime}) = P(B = 1 | A = 1 , C = 0 )$$
