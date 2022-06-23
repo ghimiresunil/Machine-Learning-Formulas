@@ -34,3 +34,6 @@ $$ M \ step  \ P(x{\prime}) = P(B = 1 | A = 1 , C = 0 )$$
 
 10. Laplace Estimate (Small Samples)
 $$ P(A) = \frac{A \ + \ 0.5}{A \ + B \ + \ 1 }$$
+
+11. Bayesian Networks
+$$ tuples \ \neg for \ y \ = \ 0 \ \land \ y \ = \ 1$$
