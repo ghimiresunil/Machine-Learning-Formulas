@@ -37,3 +37,7 @@ $$ P(A) = \frac{A \ + \ 0.5}{A \ + B \ + \ 1 }$$
 
 11. Bayesian Networks
 $$ tuples \ \neg for \ y \ = \ 0 \ \land \ y \ = \ 1$$
+
+12. Limits 
+$$ \lim_{h \to 0} \frac{f(x + h) - f(x)}{h} $$
+$$ h = \Delta{x} \ = \ \prime{x} \ - \x  $$
