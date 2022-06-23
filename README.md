@@ -31,3 +31,6 @@ $$ E \ step \ P(\bar{x}|x) = \frac{P(\bar{x}) \times P(x|\bar{x})}{\sum P(x) \ti
 $$ M \ step \ P(x^{\prime}) = \frac{P(\bar{x}|x)}{n}$$
 $$ E \ step  \ P(\bar{x}|x) = Assign \ Value $$
 $$ M \ step  \ P(x{\prime}) = P(B = 1 | A = 1 , C = 0 )$$
+
+10. Laplace Estimate (Small Samples)
+$$ P(A) = \frac{A \ + \ 0.5}{A \ + B \ + \ 1 }$$
