@@ -43,6 +43,7 @@ $$ \lim_{h \to 0} \frac{f(x + h) - f(x)}{h} $$
 $$ h = \Delta{x} \ = \ x^{\prime} \ - \ x  $$
 
 13. Derivatives
-$$  \frac{d}{dt}{x}^n = nx^{n-1} $$
-
-14. Product Rulee
+$$  \frac{d}{dx}{x}^n = n.x^{n-1} $$
+$$ \frac{d}{dx}{y}^n = \frac{d{y}^n}{dy}.\frac{dy}{dx} $$
+14. Product Rule
+$$ \frac{d}{dx}f(x).g(x) = f^{\prime}(x).g(x) + f(x).g^{\prime}(x)$$
