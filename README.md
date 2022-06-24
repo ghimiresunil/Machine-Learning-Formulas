@@ -41,3 +41,8 @@ $$ tuples \ \neg for \ y \ = \ 0 \ \land \ y \ = \ 1$$
 12. Limits 
 $$ \lim_{h \to 0} \frac{f(x + h) - f(x)}{h} $$
 $$ h = \Delta{x} \ = \ x^{\prime} \ - \ x  $$
+
+13. Derivatives
+$$  \frac{d}{dt}{x}^n = nx^{n-1} $$
+
+14. Product Rulee
