@@ -45,5 +45,10 @@ $$ h = \Delta{x} \ = \ x^{\prime} \ - \ x  $$
 13. Derivatives
 $$  \frac{d}{dx}{x}^n = n.x^{n-1} $$
 $$ \frac{d}{dx}{y}^n = \frac{d{y}^n}{dy}.\frac{dy}{dx} $$
+
 14. Product Rule
 $$ \frac{d}{dx}f(x).g(x) = f^{\prime}(x).g(x) + f(x).g^{\prime}(x)$$
+$$ \frac{d}{dx}\frac{f(x)}{g(x)} = \frac{ f^{\prime}(x).g(x) + f(x).g^{\prime}(x)}{g(x)^2}$$
+$$ \frac{d}{dx}2f(x) = 2\frac{d}{dx}f(x) $$
+$$ \frac{d}{dx}f(x)+g(x) = \frac{d}{dx}f(x) + \frac{d}{dx}g(x) $$
+$$ \frac{d}{dx}f(x)+2g(x) = \frac{d}{dx}f(x) + 2\frac{d}{dx}g(x) $$
