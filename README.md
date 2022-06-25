@@ -61,3 +61,9 @@ $$ var = \frac{\sum(x-\bar{x})^2}{n-1}$$
 
 17. Standard Deviation
 $$ \sigma = \sqrt{variance}$$
+
+18. Covariance
+$$ Cov = \frac{(x-\bar{x}).(y-\bar{y})}{n-1} $$
+
+19. Confidence Interval
+$$ x \ \textpm \ 1.96\frac{\sigma}{\sqrt{n}}$$
