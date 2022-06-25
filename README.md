@@ -58,3 +58,6 @@ $$ \frac{d}{dx}g(f(x)) = g^{\prime}(f(x)).f^{\prime}(x)$$
 
 16. Variance
 $$ var = \frac{\sum(x-\bar{x})^2}{n-1}$$
+
+17. Standard Deviation
+$$ \sigma = \sqrt{variance}$$
