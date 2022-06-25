@@ -55,3 +55,6 @@ $$ \frac{d}{dx}f(x)+2g(x) = \frac{d}{dx}f(x) + 2\frac{d}{dx}g(x) $$
 
 15. Chain Rule
 $$ \frac{d}{dx}g(f(x)) = g^{\prime}(f(x)).f^{\prime}(x)$$
+
+16. Variance
+$$ var = \frac{\sum(x-\bar{x})^2}{n-1}$$
