@@ -52,3 +52,6 @@ $$ \frac{d}{dx}\frac{f(x)}{g(x)} = \frac{ f^{\prime}(x).g(x) + f(x).g^{\prime}(x
 $$ \frac{d}{dx}2f(x) = 2\frac{d}{dx}f(x) $$
 $$ \frac{d}{dx}f(x)+g(x) = \frac{d}{dx}f(x) + \frac{d}{dx}g(x) $$
 $$ \frac{d}{dx}f(x)+2g(x) = \frac{d}{dx}f(x) + 2\frac{d}{dx}g(x) $$
+
+15. Chain Rule
+$$ \frac{d}{dx}g(f(x)) = g^{\prime}(f(x)).f^{\prime}(x)$$
