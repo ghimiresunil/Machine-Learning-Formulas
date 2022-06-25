@@ -67,3 +67,6 @@ $$ Cov = \frac{(x-\bar{x}).(y-\bar{y})}{n-1} $$
 
 19. Confidence Interval
 $$ x \ \textpm \ 1.96\frac{\sigma}{\sqrt{n}}$$
+
+20. Chi Squared
+$$ Chi = \frac{(\hat{y} - y)^2}{\sqrt{y}} = \frac{\delta^2}{\sqrt{y}} $$
