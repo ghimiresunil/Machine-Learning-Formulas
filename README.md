@@ -80,4 +80,5 @@ $$ Loss = {Bais}^2 + {Variance}^2 + Noise$$
 23. Sum of Squared Errors
 $$ E|\overrightarrow{w}| = \frac{\sum{(\hat{y}-y)^2}}{2}$$
 
-24. 
+24. Cost Function
+$$ J(\theta_j) = \theta_j - \eta.\frac{\sum{(\hat{y}-y)^2}}{2} $$
