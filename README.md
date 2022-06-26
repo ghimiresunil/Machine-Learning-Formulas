@@ -76,3 +76,8 @@ $$ R^2 = \frac{n\sum{xy} - \sum{x}.\sum{y}}{\sqrt{(n\sum{x}^2 - (\sum{x})^2).(n\
 
 22. Loss
 $$ Loss = {Bais}^2 + {Variance}^2 + Noise$$
+
+23. Sum of Squared Errors
+$$ E|\overrightarrow{w}| = \frac{\sum{(\hat{y}-y)^2}}{2}$$
+
+24. 
