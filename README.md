@@ -73,3 +73,6 @@ $$ Chi = \frac{(\hat{y} - y)^2}{\sqrt{y}} = \frac{\delta^2}{\sqrt{y}} $$
 
 21. R Squared
 $$ R^2 = \frac{n\sum{xy} - \sum{x}.\sum{y}}{\sqrt{(n\sum{x}^2 - (\sum{x})^2).(n\sum{y}^2 - (\sum{y})^2)}}$$
+
+22. Loss
+$$ Loss = {Bais}^2 + {Variance}^2 + Noise$$
