@@ -82,3 +82,8 @@ $$ E|\overrightarrow{w}| = \frac{\sum{(\hat{y}-y)^2}}{2}$$
 
 24. Cost Function
 $$ J(\theta_j) = \theta_j - \eta.\frac{\sum{(\hat{y}-y)^2}}{2} $$
+
+25. Number of examples
+$$ m \geq \frac{log(N_H)+log(\frac{1}{\delta})}{\in} $$
+where,
+$$ \in = \frac{\hat{y}}{y}$$ and $$ \delta = y - \hat{y}$$
