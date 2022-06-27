@@ -94,3 +94,6 @@ $$ p^{t+1}(X = x) = \sum_xp^t.(X = x).T(x \to x)$$
 27. K Nearest Neighbor
 $$ \hat{f}(x) \leftarrow \frac{\sum{f(x)}}{k}$$
 $$ DE(x_i, x_j) = \sqrt{(x_i - x_j)^2 + (y_{xi} - y_{xj})^2}$$
+
+28. Weighed Nearest Neighbor
+$$ f(x) = \sum{\frac{f(x)}{D(x_1x_2)^2}. \sum D(x_1x_2)^2}$$
