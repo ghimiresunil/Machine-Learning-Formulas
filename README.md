@@ -90,3 +90,7 @@ $$ \in = \frac{\hat{y}}{y}$$ and $$ \delta = y - \hat{y}$$
 
 26. Markov Chains
 $$ p^{t+1}(X = x) = \sum_xp^t.(X = x).T(x \to x)$$
+
+27. K Nearest Neighbor
+$$ \hat{f}(x) \leftarrow \frac{\sum{f(x)}}{k}$$
+$$ DE(x_i, x_j) = \sqrt{(x_i - x_j)^2 + (y_{xi} - y_{xj})^2}$$
