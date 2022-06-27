@@ -87,3 +87,6 @@ $$ J(\theta_j) = \theta_j - \eta.\frac{\sum{(\hat{y}-y)^2}}{2} $$
 $$ m \geq \frac{log(N_H)+log(\frac{1}{\delta})}{\in} $$
 where,
 $$ \in = \frac{\hat{y}}{y}$$ and $$ \delta = y - \hat{y}$$
+
+26. Markov Chains
+$$ p^{t+1}(X = x) = \sum_xp^t.(X = x).T(x \to x)$$
