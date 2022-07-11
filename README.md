@@ -109,3 +109,5 @@ $$ m_1 = \frac{\sum x_2^{\ 2} \sum x_{1}y - \sum x_1x_2 \sum x_2y}{\sum x_1^{\ 2
 $$ b = \bar{y} - m_1 \bar{x}_1 - m_2 \bar{x}_2 $$ 
 
 $$ f(x) = \sum_{i=1}^{n}m_ix_i \ + \ b $$
+
+31. Logistic Regression Formula
