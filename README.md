@@ -111,3 +111,19 @@ $$ b = \bar{y} - m_1 \bar{x}_1 - m_2 \bar{x}_2 $$
 $$ f(x) = \sum_{i=1}^{n}m_ix_i \ + \ b $$
 
 31. Logistic Regression Formula
+$$dds \ Ratio = log(\frac{p}{1 - p} = mx \ + \ b) $$
+$$ (\frac{p}{1 - p}) = e^{mx + b}  $$
+$$ \{J}(\theta) = - \frac{\sum y . log(\hat{y}) + (1 - y).log(1 - (\hat{y})}{n} $$
+
+where,
+$\hat{y} = \frac{1}{1 + e^{mx + b}}$
+for y = 0 and y = 1 
+
+-2LL $\rightarrow 0$
+
+$\bar{x}_1 \sim \bar{x}_2 \ne \bar{x}_1^{\ '} \sim \bar{x}_2^{\ '}$
+
+$mx +b = \frac{p}{1 - p}$
+$p(a|c) = \frac{mx+b}{mx + b + 1}$
+
+$logit = \frac{1}{100.log(p(a|c))}$
