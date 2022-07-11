@@ -97,3 +97,11 @@ $$ DE(x_i, x_j) = \sqrt{(x_i - x_j)^2 + (y_{xi} - y_{xj})^2}$$
 
 28. Weighed Nearest Neighbor
 $$ f(x) = \sum{\frac{f(x)}{D(x_1x_2)^2}. \sum D(x_1x_2)^2}$$
+
+29. Principal Components Analysis
+$$ x^{'}= x - \bar{x}$$
+$$ Eigenvalue = [A] - \lambda{I} $$
+$$ EigenVector = Eigenvalue.[A]$$
+$$ f(x) = Eigenvector^{T}.[x_{i1}.....x{jn}] $$
+
+30. 
