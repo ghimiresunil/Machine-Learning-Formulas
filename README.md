@@ -158,3 +158,7 @@ $mx +b = \frac{p}{1 - p}$
 $p(a|c) = \frac{mx+b}{mx + b + 1}$
 
 $logit = \frac{1}{100.log(p(a|c))}$
+
+32. Decision Trees
+
+$$ Entropy = $$
