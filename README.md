@@ -162,3 +162,5 @@ $logit = \frac{1}{100.log(p(a|c))}$
 32. Decision Trees
 
 $$ Entropy = $$
+
+😊 Will Update Soon 😊
