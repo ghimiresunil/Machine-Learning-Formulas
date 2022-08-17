@@ -163,4 +163,4 @@ $logit = \frac{1}{100.log(p(a|c))}$
 
 $$ Entropy = $$
 
-😊 Will Update Soon 😊
+33. 
